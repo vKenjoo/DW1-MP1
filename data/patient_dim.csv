@@ -1,0 +1,6 @@
+,Patient_ID,Patient_Name,Address,City,State,Country,Email,Phone_Number,Date_Of_Birth,Gender,Insurance_ID,Primary_Physician,Date_Of_Registration
+0,1,John Doe,123 Maple St,Los Angeles,California,USA,john.doe@example.com,555-123-4567,1980-01-15,M,INS123456,Dr. Alice Smith,2023-01-10
+1,2,Jane Smith,456 Oak Ave,New York,New York,USA,jane.smith@example.com,555-234-5678,1975-02-20,F,INS234567,Dr. Bob Brown,2023-02-15
+2,3,Michael Johnson,789 Pine Blvd,Chicago,Illinois,USA,michael.j@example.com,555-345-6789,1985-03-25,M,INS345678,Dr. Carol White,2023-03-18
+3,4,Emily Davis,321 Cedar Ln,Houston,Texas,USA,emily.d@example.com,555-456-7890,1990-04-30,F,INS456789,Dr. David Green,2023-04-22
+4,5,David Wilson,654 Birch Dr,Miami,Florida,USA,david.w@example.com,555-567-8901,1982-05-10,M,INS567890,Dr. Eve Black,2023-05-25

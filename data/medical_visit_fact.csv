@@ -1,0 +1,6 @@
+,Visit_ID,Patient_ID,Physician_ID,Date_ID,Department_ID,Visit_Type,Diagnosis_Code,Treatment_Code,Visit_Cost,Insurance_Coverage
+0,1,1,1,1,1,Consultation,D001,T001,150.0,100.0
+1,2,2,2,2,2,Follow-up,D002,T002,200.0,150.0
+2,3,3,3,3,3,Surgery,D003,T003,3000.0,2500.0
+3,4,4,4,4,4,Emergency,D004,T004,500.0,400.0
+4,5,5,5,5,5,Check-up,D005,T005,120.0,100.0
